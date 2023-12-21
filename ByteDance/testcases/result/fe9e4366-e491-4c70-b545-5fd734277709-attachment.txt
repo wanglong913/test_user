@@ -1,0 +1,49 @@
+2023-12-21 22:53:59,387 - simple_example - INFO - 打开url=https://www.feishu.cn/
+2023-12-21 22:54:03,833 - simple_example - INFO - 定位单个元素，定位详情：('css selector', 'body .hc_Popup')
+2023-12-21 22:54:03,884 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.hc_Popup-content path')
+2023-12-21 22:54:04,327 - simple_example - INFO - 定位单个元素，定位详情：('css selector', 'body .hc_Popup')
+2023-12-21 22:54:04,383 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '#app   a:nth-child(9)')
+2023-12-21 22:54:06,899 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.switch-login-mode-box')
+2023-12-21 22:54:06,917 - simple_example - INFO - 移动的目标元素，定位方式为<selenium.webdriver.remote.webelement.WebElement (session="f09940daad563fcbde3d0a6bee9b59df", element="17AB8218B613263B8FE8043F11DDCC03_element_42")>
+2023-12-21 22:54:07,798 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.tooltip-content')
+2023-12-21 22:54:07,831 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.switch-login-mode-box')
+2023-12-21 22:54:07,934 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.mobile-input-phone')
+2023-12-21 22:54:08,101 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.ud__checkbox__input')
+2023-12-21 22:54:08,178 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.ud__button.ud__button--filled.ud__button--filled-default.ud__button--size-lg.ud__button--block._pp-ud-btn-block')
+2023-12-21 22:54:09,445 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.ud__input-password-input-wrap>.ud__native-input')
+2023-12-21 22:54:09,561 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.step-box__footer>.ud__button.ud__button--filled.ud__button--filled-default.ud__button--size-lg.ud__button--block._pp-ud-btn-block')
+2023-12-21 22:54:15,793 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.universe-icon._pp-product-icon>svg>path')
+2023-12-21 22:54:15,993 - simple_example - INFO - 定位单个元素，定位详情：('xpath', '/html/body/div[3]/div/div/div/div/div[1]/ul/li[1]')
+2023-12-21 22:54:19,110 - simple_example - INFO - 定位单个元素，定位详情：('css selector', 'section>section:nth-child(5)>div>svg')
+2023-12-21 22:54:20,766 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.contactPageNav_item.EXTERNAL_CONTACT  .larkc-sidebar-card-name')
+2023-12-21 22:54:21,071 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.contactCard')
+2023-12-21 22:54:21,847 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.larkc-usercard__ctas>button:nth-child(1)>svg>path')
+2023-12-21 22:54:22,350 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.feed-slider>div:nth-child(1) .list_items>div:nth-child(2)')
+2023-12-21 22:54:33,766 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.lark-editor.lark-empty')
+2023-12-21 22:54:38,840 - simple_example - INFO - 单个元素没有找到，Message: no such element: Unable to locate element: {"method":"css selector","selector":".lark-editor.lark-empty"}
+  (Session info: chrome=120.0.6099.130); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00FA6EE3+174339]
+	(No symbol) [0x00ED0A51]
+	(No symbol) [0x00BE6FF6]
+	(No symbol) [0x00C19876]
+	(No symbol) [0x00C19C2C]
+	(No symbol) [0x00C4BD42]
+	(No symbol) [0x00C37054]
+	(No symbol) [0x00C4A104]
+	(No symbol) [0x00C36DA6]
+	(No symbol) [0x00C11034]
+	(No symbol) [0x00C11F8D]
+	GetHandleVerifier [0x01044B1C+820540]
+	sqlite3_dbdata_init [0x011053EE+653550]
+	sqlite3_dbdata_init [0x01104E09+652041]
+	sqlite3_dbdata_init [0x010F97CC+605388]
+	sqlite3_dbdata_init [0x01105D9B+656027]
+	(No symbol) [0x00EDFE6C]
+	(No symbol) [0x00ED83B8]
+	(No symbol) [0x00ED84DD]
+	(No symbol) [0x00EC5818]
+	BaseThreadInitThunk [0x77A4FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77D97C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D97C3E+238]
+
