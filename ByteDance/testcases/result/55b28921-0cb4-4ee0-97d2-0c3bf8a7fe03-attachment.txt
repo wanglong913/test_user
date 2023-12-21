@@ -1,0 +1,3 @@
+2023-12-21 23:04:44,713 - simple_example - INFO - 打开url=https://www.feishu.cn/
+2023-12-21 23:04:49,027 - simple_example - INFO - 定位单个元素，定位详情：('css selector', 'body .hc_Popup')
+2023-12-21 23:04:49,131 - simple_example - INFO - 定位单个元素，定位详情：('css selector', '.hc_Popup-content path')
